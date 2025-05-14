@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/xxpe3-omgflux-mcp-server-badge.png)](https://mseep.ai/app/xxpe3-omgflux-mcp-server)
+
 # Omg Flux MCP 
 
 You can verify your Node.js installation by running:
